@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hashemuh.github.io/Web-Developer/sitemap.xml
